@@ -1,1 +1,2 @@
 # amazon-review
+This repository contains scripts for fetching reviews of products from amazon.com. The specific product to be scrapped is men's Nike shoes. The result of this work is a csv file that contains a collection of reviews from each customer. Furthermore, this data can be used for sentiment analysis.
